@@ -34,7 +34,7 @@ const questions = () => {
     {
         type: 'input',
         message: 'Enter test cases for your project.',
-        name: 'test',
+        name: 'tests',
     },
     {
         type: 'list',

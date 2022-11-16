@@ -53,7 +53,7 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contribution](#contribution)
-  * [Tests](#test)
+  * [Tests](#tests)
   * [License](#license)
   * [Questions](#questions)
   * [Contacts](#contacts)
@@ -65,7 +65,7 @@ function generateMarkdown(data) {
   ## Contribution
   ${data.contribution}
   ## Tests
-  ${data.test}
+  ${data.tests}
   ## License
   ${licenseSection}
   ${licenseLink}
